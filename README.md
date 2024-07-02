@@ -20,6 +20,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite.js" **alt="Vite.js" width="40" height="40"/>&nbsp;
 </div>
+</div>
+<div align="center">
+  <h2 align="left"> :computer: Stats:</h2>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rommarioo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
