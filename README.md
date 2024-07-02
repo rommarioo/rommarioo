@@ -29,10 +29,10 @@
 <div align="left">
    <h2 align="left"> :envelope: Сontact with me:</h2>
   <a href="https://t.me/rommanlarionov" text-decoration="none"> 
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Telegramm" **alt="Telegram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:rommalarionov00@gmail.com" text-decoration="none"> 
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Gmail" **alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
