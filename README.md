@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="200" height="200"/>
   
 </div>
-<div align="center">
+<div align="left">
  <h2 align="left">:hammer_and_wrench: Languages and Tools :</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -25,5 +25,11 @@
   <h2 align="left"> :computer: Stats:</h2>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rommarioo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align="center">
+   <h2 align="left"> :envelope: Сontact with me:</h2>
+  <a href="https://t.me/rommanlarionov"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite.js" **alt="Vite.js" width="40" height="40"/>
+  </a>
 </div>
 
