@@ -1,15 +1,10 @@
-<table align="center" border="0px">
-    <tr >
-        <td > <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="200" height="200"/></td>
-        <td >
-          <p>I'm frontend developer</p>
-        </td>
-    </tr>
-</table>
+
 <div id="header" align="center">
   <h1>Hello, my name is Larionov Roman.👋</h1>
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="200" height="200"/>
-  
+  <p>
+      I'm a frontend developer.
+  </p>
 </div>
 <div align="left">
  <h2 align="left">:hammer_and_wrench: Languages and Tools :</h2>
