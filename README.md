@@ -28,10 +28,10 @@
 </div>
 <div align="left">
    <h2 align="left"> :envelope: Сontact with me:</h2>
-  <a href="https://t.me/rommanlarionov"> 
+  <a href="https://t.me/rommanlarionov" text-decoration="none"> 
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Telegramm" **alt="Telegram" width="40" height="40"/>
   </a>
-  <a href="mailto:rommalarionov00@gmail.com"> 
+  <a href="mailto:rommalarionov00@gmail.com" text-decoration="none"> 
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Gmail" **alt="Gmail" width="40" height="40"/>
   </a>
 </div>
