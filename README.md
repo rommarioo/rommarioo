@@ -26,10 +26,13 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rommarioo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<div align="center">
+<div align="left">
    <h2 align="left"> :envelope: Сontact with me:</h2>
   <a href="https://t.me/rommanlarionov"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite.js" **alt="Vite.js" width="40" height="40"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Telegramm" **alt="Telegram" width="40" height="40"/>
+  </a>
+  <a href="mailto:rommalarionov00@gmail.com"> 
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" title="Gmail" **alt="Gmail" width="40" height="40"/>
   </a>
 </div>
 
