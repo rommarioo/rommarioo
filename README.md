@@ -1,4 +1,11 @@
-
+<table align="center" border="0px">
+    <tr >
+        <td > <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="200" height="200"/></td>
+        <td >
+          <p>I'm frontend developer</p>
+        </td>
+    </tr>
+</table>
 <div id="header" align="center">
   <h1>Hello, my name is Larionov Roman.👋</h1>
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="200" height="200"/>
@@ -25,6 +32,8 @@
   <h2 align="left"> :computer: Stats:</h2>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rommarioo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![codewars](https://www.codewars.com/users/rommarioo/badges/large)](https://www.codewars.com/users/rommarioo)  
 </div>
 <div align="left">
    <h2 align="left"> :envelope: Сontact with me:</h2>
